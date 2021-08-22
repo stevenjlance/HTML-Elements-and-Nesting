@@ -33,7 +33,7 @@ Navigate to the [W3Schools page about anchor tags](https://www.w3schools.com/tag
 
 Using the documentation on W3Schools, add the following to the profile that you are building:
 - An anchor tag hyperlink to the subject's favorite webpage.
-- An image tag with either the person's favorite animal.
+- An image tag with the person's favorite animal.
 - **STRETCH**: An iframe with an embedded website.
 
 ## HTML: Adding Structure
